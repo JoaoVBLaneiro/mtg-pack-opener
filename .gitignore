@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Node / React
+node_modules/
+frontend/dist/
+
+# Local database / generated local data
+backend/data/
+*.sqlite3
+*.db
+
+# Build outputs
+backend/build/
+backend/dist/
+backend/*.spec
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

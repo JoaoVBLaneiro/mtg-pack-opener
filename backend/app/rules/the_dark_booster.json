@@ -1,0 +1,17 @@
+{
+  "product_code": "the_dark_booster",
+  "label": "The Dark Booster",
+  "set_code": "drk",
+  "slots": [
+    {
+      "name": "common",
+      "count": 6,
+      "pool": "common_sheet"
+    },
+    {
+      "name": "uncommon",
+      "count": 2,
+      "pool": "uncommon_sheet"
+    }
+  ]
+}

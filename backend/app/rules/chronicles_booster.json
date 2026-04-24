@@ -1,0 +1,17 @@
+{
+  "product_code": "chronicles_booster",
+  "label": "Chronicles Booster",
+  "set_code": "chr",
+  "slots": [
+    {
+      "name": "common",
+      "count": 9,
+      "pool": "common"
+    },
+    {
+      "name": "uncommon",
+      "count": 3,
+      "pool": "uncommon"
+    }
+  ]
+}

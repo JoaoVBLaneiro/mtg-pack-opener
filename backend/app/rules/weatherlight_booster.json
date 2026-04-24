@@ -1,0 +1,22 @@
+{
+  "product_code": "weatherlight_booster",
+  "label": "Weatherlight Booster",
+  "set_code": "wth",
+  "slots": [
+    {
+      "name": "common",
+      "count": 11,
+      "pool": "common"
+    },
+    {
+      "name": "uncommon",
+      "count": 3,
+      "pool": "uncommon"
+    },
+    {
+      "name": "rare",
+      "count": 1,
+      "pool": "rare"
+    }
+  ]
+}

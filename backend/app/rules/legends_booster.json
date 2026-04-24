@@ -1,0 +1,22 @@
+{
+  "product_code": "legends_booster",
+  "label": "Legends Booster",
+  "set_code": "leg",
+  "slots": [
+    {
+      "name": "common",
+      "count": 11,
+      "pool": "common"
+    },
+    {
+      "name": "uncommon",
+      "count": 3,
+      "pool": "uncommon"
+    },
+    {
+      "name": "rare",
+      "count": 1,
+      "pool": "rare"
+    }
+  ]
+}

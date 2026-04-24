@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  },
+
+  "scripts": {
+    "dev": "concurrently \"cd backend && python -m uvicorn app.main:app --reload\" \"cd frontend && npm run dev\""
+  }
+  
+}
+

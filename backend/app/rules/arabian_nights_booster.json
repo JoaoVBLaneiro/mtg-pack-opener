@@ -1,0 +1,17 @@
+{
+  "product_code": "arabian_nights_booster",
+  "label": "Arabian Nights Booster",
+  "set_code": "arn",
+  "slots": [
+    {
+      "name": "common",
+      "count": 6,
+      "pool": "common"
+    },
+    {
+      "name": "uncommon",
+      "count": 2,
+      "pool": "uncommon"
+    }
+  ]
+}

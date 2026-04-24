@@ -1,0 +1,22 @@
+{
+  "product_code": "fifth_edition_booster",
+  "label": "Fifth Edition Booster",
+  "set_code": "5ed",
+  "slots": [
+    {
+      "name": "common",
+      "count": 11,
+      "pool": "common"
+    },
+    {
+      "name": "uncommon",
+      "count": 3,
+      "pool": "uncommon"
+    },
+    {
+      "name": "rare",
+      "count": 1,
+      "pool": "rare"
+    }
+  ]
+}

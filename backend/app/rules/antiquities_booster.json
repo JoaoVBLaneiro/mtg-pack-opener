@@ -1,0 +1,17 @@
+{
+  "product_code": "antiquities_booster",
+  "label": "Antiquities Booster",
+  "set_code": "atq",
+  "slots": [
+    {
+      "name": "common",
+      "count": 6,
+      "pool": "common"
+    },
+    {
+      "name": "uncommon",
+      "count": 2,
+      "pool": "uncommon"
+    }
+  ]
+}

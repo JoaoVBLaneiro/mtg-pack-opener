@@ -1,0 +1,22 @@
+{
+  "product_code": "unlimited_edition_booster",
+  "label": "Unlimited Edition Booster",
+  "set_code": "2ed",
+  "slots": [
+    {
+      "name": "common",
+      "count": 11,
+      "pool": "common"
+    },
+    {
+      "name": "uncommon",
+      "count": 3,
+      "pool": "uncommon"
+    },
+    {
+      "name": "rare",
+      "count": 1,
+      "pool": "rare"
+    }
+  ]
+}

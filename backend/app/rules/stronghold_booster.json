@@ -1,0 +1,10 @@
+{
+  "product_code": "stronghold_booster",
+  "label": "Stronghold Booster",
+  "set_code": "sth",
+  "slots": [
+    { "name": "common", "count": 11, "pool": "common" },
+    { "name": "uncommon", "count": 3, "pool": "uncommon" },
+    { "name": "rare", "count": 1, "pool": "rare" }
+  ]
+}

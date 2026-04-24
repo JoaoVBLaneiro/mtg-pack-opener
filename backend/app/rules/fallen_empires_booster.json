@@ -1,0 +1,17 @@
+{
+  "product_code": "fallen_empires_booster",
+  "label": "Fallen Empires Booster",
+  "set_code": "fem",
+  "slots": [
+    {
+      "name": "common",
+      "count": 6,
+      "pool": "common_sheet"
+    },
+    {
+      "name": "uncommon",
+      "count": 2,
+      "pool": "uncommon_sheet"
+    }
+  ]
+}

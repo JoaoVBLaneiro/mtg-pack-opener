@@ -1,0 +1,22 @@
+{
+  "product_code": "revised_edition_booster",
+  "label": "Revised Edition Booster",
+  "set_code": "3ed",
+  "slots": [
+    {
+      "name": "common",
+      "count": 11,
+      "pool": "common"
+    },
+    {
+      "name": "uncommon",
+      "count": 3,
+      "pool": "uncommon"
+    },
+    {
+      "name": "rare",
+      "count": 1,
+      "pool": "rare"
+    }
+  ]
+}
