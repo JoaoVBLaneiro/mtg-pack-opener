@@ -96,6 +96,7 @@ export default function CollectionPage({ player }: Props) {
 
   useEffect(() => {
     reloadCollection().catch(console.error);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [player.id, search, color, typeFilter, sortBy]);
 
   return (
@@ -287,7 +288,7 @@ export default function CollectionPage({ player }: Props) {
                   rel="noreferrer"
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
-                  <img src={entry.image_url} alt={entry.card_name}/>
+                  <img src={entry.image_url} alt={entry.card_name} loading="lazy"/>
                 </a>
               </div>
               <div className="collection-card__body">
